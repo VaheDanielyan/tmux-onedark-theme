@@ -1,4 +1,4 @@
-# Forked from https://github.com/odedlaz/tmux-onedark-theme
+# Changes in the Fork
 
 I have forked this theme to make some changed that will better suit it to my needs.
 1. No Strange Powerline Symbols.
