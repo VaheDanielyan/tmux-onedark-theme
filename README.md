@@ -1,3 +1,16 @@
+# Forked from https://github.com/odedlaz/tmux-onedark-theme
+
+I have forked this theme to make some changed that will better suit it to my needs.
+1. No Strange Powerline Symbols.
+2. Removed Widgets
+3. Tidy up to my taste
+
+## Preview 
+
+![tmux-onedark-theme Preview](preview-terminal-new.png)
+
+# Original Readme
+
 # tmux-onedark-theme
 A dark tmux color scheme for terminal that support [True Color](https://en.wikipedia.org/wiki/Color_depth#True_color_.2824-bit.29), based on [onedark.vim](https://github.com/joshdick/onedark.vim), which is inspired by [One Dark syntax theme](https://github.com/atom/one-dark-syntax) for the [Atom text editor](https://atom.io).
 
@@ -9,7 +22,7 @@ Furthermore, with `tmuxline.vim`, you can't control the widgets on right status 
 
 A picture of my terminal with *@onedark_widgets* set to "*#{package_updates} #{free_mem}*".  
 These widgets are available in [tmux-status-variables](https://github.com/odedlaz/tmux-status-variables).
-![tmux-onedark-theme Preview](https://raw.githubusercontent.com/odedlaz/tmux-onedark-theme/master/preview-terminal.png)
+![tmux-onedark-theme Preview](preview-terminal.png)
 
 ### Set Options
 
